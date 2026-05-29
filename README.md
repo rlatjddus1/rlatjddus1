@@ -109,9 +109,7 @@ YOLOv8과 U-Net 기반 실시간 객체 탐지 및 횡단보도 인식 시스템
 
 # 📫 Contact
 
-* Email : [your_email@example.com](mailto:your_email@example.com)
-* GitHub : https://github.com/your-github-id
-
+* Email : [rlatjddus234@gmail.com]
 ---
 
 # 💡 Motto
