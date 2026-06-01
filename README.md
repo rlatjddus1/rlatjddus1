@@ -11,7 +11,8 @@
 
 | 항목 | 내용 |
 |------|------|
-| 🎓 학력 | 창원대학교 컴퓨터공학과 / 2026.08 (졸업 예정) / 학점 3.28/ / 4.5) |
+| 🎓 학력 | 창원대학교 컴퓨터공학과 / 2026.08 (졸업 예정) | 
+| ✨ 학점 | 3.28/ / 4.5 |
 | 📍 관심 분야 | Computer Vision, Embedded, System Programming |
 | 🌱 학습 중 | Embedded System, Operating System, Network |
 | 📫 Email | rlatjddus234@gmail.com |
